@@ -1,0 +1,20 @@
+.navigation {
+    background-image: linear-gradient(to right, rgb(9, 28, 109), rgb(9, 28, 109));
+    height: 50px;
+}
+
+.position {
+    position: sticky;
+    top: 0;
+
+}
+
+.navbar {
+    text-decoration: none;
+    margin: 25px;
+    font-size: 20px;
+}
+
+.navbar:hover {
+    color: white;
+}
